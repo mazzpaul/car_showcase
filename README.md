@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align='center'><img style="width:30%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/124272891/251517828-c33f6dd6-368e-41e8-9c79-b4b3eac4f06c.png"/></div>
 
-## Getting Started
+<h2>About the project</h2>
 
-First, run the development server:
+  <p>Our project is dedicated to revolutionizing the way you find, book, and rent cars. With our user-friendly platform, we aim to streamline your car rental experience, making it quick and effortless. Whether you're planning a road trip, need a vehicle for daily commuting, or simply want to explore a new destination, our platform is designed to cater to all your car rental needs.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Our hassle-free booking process ensures that you can secure your desired vehicle within minutes. With just a few clicks, you can browse through a wide range of car options, compare prices, and choose the perfect one that suits your preferences and budget. We understand the importance of convenience, and that's why we strive to make the entire process seamless and efficient.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Gone are the days of long queues at car rental counters or endless phone calls to secure a vehicle. Our platform empowers you to take control of your car rental journey, putting the power of choice and accessibility at your fingertips. Whether you're a frequent traveler or someone who occasionally requires a car, we are here to simplify the process and enhance your overall experience.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+So, why wait? Discover the joy of stress-free car rentals today. Visit our platform and embark on your next adventure with confidence, knowing that finding, booking, and renting a car has never been easier.</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+👉 Live Demo: <a href='https://car-showcase-k1as.vercel.app'>Live Demo</a>
 
-## Learn More
+<h3>Build with:</h3>
 
-To learn more about Next.js, take a look at the following resources:
+» NextJS <br>
+» TypeScript <br>
+» TailwindCSS <br>
+» Headless UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<h2>Screenshots of the Project 📸</h2>
+<br>
+<h3 align='center'>Home Page 🏡</h3>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<div align='center'>
+<img src='https://github.com/stefvndev/car-rental/files/11970516/Car.Hub.pdf'/>
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</div>
