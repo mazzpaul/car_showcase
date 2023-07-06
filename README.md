@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/124272891/251517828-c33f6dd6-368e-41e8-9c79-b4b3eac4f06c.png"/></div>
+<div align='center'><img style="width:40%" src="https://github.com/mazzpaul/car_showcase/assets/124272891/87ba6cac-3120-489d-9649-12d8ec56a81d"/></div>
 
 <h2>About the project</h2>
 
@@ -24,6 +24,6 @@ So, why wait? Discover the joy of stress-free car rentals today. Visit our platf
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://github.com/stefvndev/car-rental/files/11970516/Car.Hub.pdf'/>
+<img src='https://github.com/mazzpaul/car_showcase/files/11970567/Car.Hub.pdf'/>
 
 </div>
